@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '490b26e45243f7e94a854a2fa167a4ae8751a17c',
+    'reference' => '76012d72342992a112816d4d41783e54e7cb596b',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '490b26e45243f7e94a854a2fa167a4ae8751a17c',
+      'reference' => '76012d72342992a112816d4d41783e54e7cb596b',
     ),
     'barryvdh/laravel-dompdf' => 
     array (
